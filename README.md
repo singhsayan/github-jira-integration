@@ -93,6 +93,9 @@ Your app will now:
 
 ---
 
+**Jira Token got created:**
+![Jira Token](Screenshot/jira-token.png)
+
 ## Post-Project Cleanup
 To avoid unnecessary charges and maintain security:
 - **Delete AWS EC2 Instance**:  
